@@ -9,6 +9,7 @@ function Home() {
       <div>
             <div>
                 <h2>Car1</h2>
+                <h3>Ti loh</h3>
                 <p>100 000$</p>
                 <button>Read more</button>
             </div>
